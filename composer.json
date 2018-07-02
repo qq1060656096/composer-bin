@@ -1,0 +1,9 @@
+{
+  "name": "zwei/composer-bin",
+  "description": "the zwei composer-bin package.",
+  "keywords": ["composer bin"],
+  "license": "BSD-3-Clause",
+  "bin": [
+    "bin/test-bin"
+  ]
+}
